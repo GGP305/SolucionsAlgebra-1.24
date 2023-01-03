@@ -1,4 +1,4 @@
-function [ret] = Eliminacion_Gaussiana_P_T(A,b)
+function [ret] = eliminacion_gaussiana_p_t(A,b)
 
 							%Muestra una  respuesta con mayor ecxatitud y muestra la matriz aumentada
 [n,m]=size(A);							% TamaÃ±o de la matriz A
