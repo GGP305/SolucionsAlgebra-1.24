@@ -65,7 +65,7 @@ function [x_grid, t_grid, U] = solve_crank_nicholson_heat_equation(L, T, I, J)
     independent_term(I-1) = 2*U(I, k-1) + (alpha*(U(I+1,k)+U(I+1,k-1)))/2;
     
     [Ws] = eliminacion_gaussiana_p_t(B,independent_term);
-Ws
+    Ws
     U(2:I, k) = Ws-U(2:I,k-1);
   endfor
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
