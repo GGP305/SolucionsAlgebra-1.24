@@ -1,6 +1,8 @@
 ## Resultados numericos
 `h = 0.040000`
+<br>
 `k = 0.2000`
+<br>
 `alpha = 125`
 <br>
 ```
