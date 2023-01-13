@@ -1,9 +1,10 @@
 ## Solucion Problema 1.24 - Trabajo Algebra 1 UIB
 Integrantes del grupo:
-- Finn Maria Dicke
-- Gabriel González Pibernat
-- Antonio Amor Ramón
-- Alexandre Cebreiro Vega
+- Finn Maria Dicke (Y0080222N)
+- Gabriel González Pibernat (43638413F)
+- Antonio Amor Ramón (43467659M)
+- Alexandre Cebreiro Vega (46395907P)
+
 
 Profesores:
 - Marc Munar Covas
