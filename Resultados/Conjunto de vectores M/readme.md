@@ -1,7 +1,7 @@
 ## Conjunto de vectores M
 Nota: Si nos fijamos bien podemos observar que cada uno de estos vectores es la temperatura de la barra entera en cada instante de tiempo
 
-***
+##
 
 <br>
 Instante `t = 0.0`
