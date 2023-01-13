@@ -1,5 +1,5 @@
 ## Conjunto de vectores M
-Nota: Si nos fijamos bien podemos observar que cada uno de estos vectores es la temperatura de la barra entera en cada instante de tiempo
+Nota: Si nos fijamos bien podemos observar que cada uno de estos vectores representa la temperatura de la barra entera en cada instante de tiempo
 
 ##
 Instante `t = 0.0`
